@@ -9,10 +9,10 @@
 </tr>
 <tr>
 <td align="center">
-<a href="https://v-flow-alpha.vercel.app/"><img width="49%" src="assets/devflow.webp" alt="DevFlow: developer Q&A platform with AI-assisted answers" /></a>
-<a href="https://dental-ruby.vercel.app"><img width="49%" src="assets/dentwise.webp" alt="Dentwise: dental SaaS with a real-time voice agent" /></a>
+<a href="https://v-flow-alpha.vercel.app/"><img width="49%" src="devflow.webp" alt="DevFlow: developer Q&A platform with AI-assisted answers" /></a>
+<a href="https://dental-ruby.vercel.app"><img width="49%" src="dentwise.webp" alt="Dentwise: dental SaaS with a real-time voice agent" /></a>
 <br />
-<a href="https://lost-found-livid.vercel.app"><img width="49%" src="assets/lostfound.webp" alt="Lost & Found: mobile-first device recovery platform" /></a>
+<a href="https://lost-found-livid.vercel.app"><img width="49%" src="lostfound.webp" alt="Lost & Found: mobile-first device recovery platform" /></a>
 </td>
 </tr>
 <tr>
