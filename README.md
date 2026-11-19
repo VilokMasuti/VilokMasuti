@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,100:2a1a0a&height=200&section=header&text=Vilok&fontColor=e8a24a&fontSize=70&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=60&animation=fadeIn" width="100%" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E8A24A&center=true&vCenter=true&width=600&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Lighthouse+accessibility+65+%E2%86%92+95;Building+voice+AI+interfaces;Open+to+frontend+roles+anywhere" />
+</p>
+
 <table width="100%">
 <tr>
 <td valign="middle">
