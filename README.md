@@ -12,7 +12,7 @@
 <a href="https://v-flow-alpha.vercel.app/"><img width="49%" src="devflow.webp.png" alt="DevFlow: developer Q&A platform with AI-assisted answers" /></a>
 <a href="https://dental-ruby.vercel.app"><img width="49%" src="dentwise.webp.png" alt="Dentwise: dental SaaS with a real-time voice agent" /></a>
 <br />
-<a href="https://lost-found-livid.vercel.app"><img width="49%" src="lostfound.webp" alt="Lost & Found: mobile-first device recovery platform" /></a>
+<a href="https://lost-found-livid.vercel.app"><img width="49%" src="lostfound.webp.png" alt="Lost & Found: mobile-first device recovery platform" /></a>
 </td>
 </tr>
 <tr>
