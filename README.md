@@ -1,75 +1,60 @@
-# Vilok
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Vilok — Frontend Engineer specializing in React.js, Next.js, and TypeScript in Bangalore, India.">
-</picture>
-
-## About
-
-Frontend Engineer focused on building responsive, production-oriented web applications with React.js, Next.js, and TypeScript. My work spans UI engineering, API integration, accessibility, performance, authentication, data, and AI-enabled product features.
-
-The resume behind this profile lists two internships and a short production engagement at a US-backed SaaS company, plus three independently designed, built, and deployed full-stack applications. fileciteturn0file1L5-L9
-
-## Engineering Focus
-
-- React.js, Next.js 14/15 (App Router), TypeScript, JavaScript, HTML5, CSS3
-- Tailwind CSS, Shadcn UI, Framer Motion, responsive/mobile-first UI, WCAG, ARIA, semantic HTML
-- TanStack Query, Redux Toolkit, Zustand, Context API
-- Node.js, REST APIs, Server Actions, MongoDB, PostgreSQL, Supabase, Zod, React Hook Form
-- Clerk, NextAuth/Auth.js, OAuth 2.0, JWT, Vapi AI, Groq AI SDK, Replicate API
-- Git, GitHub, Vercel, Netlify, Figma, Chrome DevTools, Lighthouse, cross-browser testing
-
-These technologies and tools are listed in the supplied resume. fileciteturn0file1L10-L16
-
-## Experience
-
-### Junior Software Engineer — Synup
-**Jan 2026 – Feb 2026 · US-backed SaaS Platform**
-
-Onboarded into a production React + TypeScript codebase, worked through analytics frontend architecture and API integration flows, and participated in agile sprint and PR review processes. fileciteturn0file1L35-L41
-
-### Frontend Developer Intern — Instinctive Studio
-**2025 · Remote**
-
-Built a student dashboard, multi-step authentication flow, and mobile-first search interface from Figma designs. Integrated REST APIs with TanStack Query and optimistic UI updates, with cross-browser delivery across Chrome, Firefox, Safari, and Edge. fileciteturn0file1L42-L47
-
-### Frontend Developer Intern — Ocean Smart Solutions
-**2024 · Remote**
-
-Reduced page load time by 50% using React.lazy(), route-based chunking, and browser caching. Raised a Lighthouse accessibility score from 65 to 95 using semantic HTML5, ARIA, and WCAG 2.1 practices, and built a reusable Next.js component library. fileciteturn0file1L48-L52
-
-## Featured Projects
-
-### DevFlow — Full-Stack Developer Q&A Platform
-
-Stack: Next.js, TypeScript, MongoDB, NextAuth, Tailwind CSS, Shadcn UI, Groq AI SDK.
-
-A Stack Overflow-style Q&A platform with AI-generated answers, AI-assisted question enhancement, gamification, debounced global search, multiple Next.js rendering strategies, cache revalidation, and a markdown sanitization pipeline for malformed AI output. fileciteturn0file1L17-L23
-
-### Dentwise — AI Dental Practice SaaS Platform
-
-Stack: Next.js, TypeScript, PostgreSQL, Clerk, TanStack Query, Vapi AI, Stripe.
-
-A multi-tenant dental SaaS with authentication, role-based access control, automated appointment booking, Stripe subscription billing, and a Vapi AI voice agent. The supplied resume reports 90+ Lighthouse performance via Vercel edge deployment. fileciteturn0file1L24-L29
-
-### Lost & Found — Device Reporting & Recovery Platform
-
-Stack: Next.js, TypeScript, MongoDB, Zustand, Framer Motion.
-
-A device reporting and matching platform with debounced multi-criteria filtering, an admin moderation panel, global state via Zustand, and page transitions with Framer Motion. fileciteturn0file1L30-L34
-
-## Education
-
-**Bachelor of Computer Applications (BCA)** — KUD IBMR University, Karnataka  
-CGPA: **8.0/10.0** · 2021–2023
-
-**JavaScript Mastery Program** — Completed 2026 fileciteturn0file1L53-L55
-
-## Connect
-
-- [GitHub](https://github.com/VilokMasuti)
-- Email: [vilokmasuti@outlook.com](mailto:vilokmasuti@outlook.com)
-
-The supplied resume includes a LinkedIn label but does not provide the LinkedIn URL, so it is intentionally not linked here. fileciteturn0file1L3-L4
+<table width="100%">
+<tr>
+<td valign="middle">
+<a href="https://www.linkedin.com/in/vilok-masuti-99aab8252" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+<a href="mailto:vilokmasuti@outlook.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/maildotru/ffffff"><img align="right" hspace="6" width="26" alt="Email" src="https://cdn.simpleicons.org/maildotru/000000"></picture></a>
+<b>Hey! I'm&nbsp;Vilok, a&nbsp;frontend&nbsp;engineer&nbsp;👋</b><br />
+<sub>I build fast, accessible web apps with React and Next.js. Took a production app from React to Next.js and pushed Lighthouse accessibility from 65 → 95. Open to frontend roles, anywhere.</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://v-flow-alpha.vercel.app/"><img width="49%" src="assets/devflow.webp" alt="DevFlow: developer Q&A platform with AI-assisted answers" /></a>
+<a href="https://dental-ruby.vercel.app"><img width="49%" src="assets/dentwise.webp" alt="Dentwise: dental SaaS with a real-time voice agent" /></a>
+<br />
+<a href="https://lost-found-livid.vercel.app"><img width="49%" src="assets/lostfound.webp" alt="Lost & Found: mobile-first device recovery platform" /></a>
+</td>
+</tr>
+<tr>
+<td>
+<b>languages</b><br />
+<img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-HTML5-111?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/-CSS3-111?style=flat-square&logo=css&logoColor=1572B6"/>
+</td>
+</tr>
+<tr>
+<td>
+<b>frontend</b><br />
+<img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/-Framer%20Motion-111?style=flat-square&logo=framer&logoColor=0055FF"/>
+<img src="https://img.shields.io/badge/-TanStack%20Query-111?style=flat-square&logo=reactquery&logoColor=FF4154"/>
+<img src="https://img.shields.io/badge/-Zustand-111?style=flat-square&logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-shadcn%2Fui-111?style=flat-square&logo=shadcnui&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-Figma-111?style=flat-square&logo=figma&logoColor=F24E1E"/>
+</td>
+</tr>
+<tr>
+<td>
+<b>agents / ai</b><br />
+<img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-Groq-111?style=flat-square&logoColor=F55036"/>
+<img src="https://img.shields.io/badge/-Vapi%20AI-111?style=flat-square&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-Claude-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+</td>
+</tr>
+<tr>
+<td>
+<b>infra</b><br />
+<img src="https://img.shields.io/badge/-Node.js-111?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/-MongoDB-111?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
+<img src="https://img.shields.io/badge/-Clerk-111?style=flat-square&logo=clerk&logoColor=6C47FF"/>
+<img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+</td>
+</tr>
+</table>
